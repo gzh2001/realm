@@ -1,0 +1,6 @@
+{
+    "listening_addresses": ["0.0.0.0"],
+    "listening_ports": ["30000-30001"],
+    "remote_addresses": ["10.211.55.5", "10.211.55.6"],
+    "remote_ports": ["39515", "53924"]
+}
